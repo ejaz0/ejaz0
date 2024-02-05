@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejaz0
 - 👀 I’m interested in programming javascript, python & c++
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
