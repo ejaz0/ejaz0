@@ -10,10 +10,14 @@ I am a passionate developer with a keen interest in learning and working with va
 - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> C++
 - <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"> C#
 
-## 🛠 Tech Stack
+## 🛠 Frameworks
 - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"> React
 - <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js"> Node.js
+
+## 📦 Virtualization
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> Docker
+
+## 🗂 Version Control
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> Git
 
 ## 💾 Databases
