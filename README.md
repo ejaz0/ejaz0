@@ -1,4 +1,4 @@
-Absolutely! Here's the revised version of your GitHub description with the added "Tech Stack" section:
+
 
 ---
 
@@ -28,4 +28,3 @@ Absolutely! Here's the revised version of your GitHub description with the added
 
 ---
 
-You can copy and paste this directly into your GitHub README.md file. This will create a visually appealing profile with icons for the various technologies you are interested in and currently learning.
