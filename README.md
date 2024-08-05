@@ -36,7 +36,7 @@ I am a passionate developer with a keen interest in learning and working with va
 
 ## 🌱 Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ## 💞️ Collaboration
