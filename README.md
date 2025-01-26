@@ -33,14 +33,3 @@ I am a passionate developer with a keen interest in learning and working with va
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
 </p>
-
-## 🌱 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-## 💞️ Collaboration
-I’m looking to collaborate on open-source projects and interesting programming challenges. Feel free to reach out if you have any exciting ideas or projects!
-
-## 📫 How to Reach Me
-You can reach me via my GitHub profile [@ejaz0](https://github.com/ejaz0)
