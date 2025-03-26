@@ -22,11 +22,6 @@ I am a passionate developer with a keen interest in learning and working with va
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## 🗂 Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-</p>
-
 ## 💾 Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
