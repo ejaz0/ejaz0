@@ -1,10 +1,12 @@
 # Hi, I’m Elvis
 
-I’m a passionate developer who thrives on building robust, scalable, and efficient backend systems. While I enjoy exploring different areas of development, I’m especially drawn to the backend side — designing APIs, working with databases, and optimizing server-side logic. I love learning new technologies and solving real-world problems through clean and maintainable code.
+I'm a backend-leaning developer from Sweden with a Bachelor's degree in Software Engineering. I'm passionate about writing clean, efficient code and building systems that are reliable and easy to maintain.
+
+While I'm still early in my career, I’ve spent a lot of time learning by doing , building projects, exploring different parts of the stack, and focusing especially on how things work behind the scenes. I enjoy working with APIs, databases, and backend logic, and I’m always looking to improve and pick up new tools.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -18,3 +20,16 @@ I’m a passionate developer who thrives on building robust, scalable, and effic
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
 </p>
+
+---
+
+## About Me
+
+- Based in Sweden  
+- Bachelor's in Software Engineering  
+- Especially interested in backend development  
+- Always learning, building, and improving  
+
+---
+
+##
