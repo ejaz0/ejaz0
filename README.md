@@ -27,7 +27,7 @@ While I'm still early in my career, I’ve spent a lot of time learning by doing
 
 - Based in Sweden  
 - Bachelor's in Software Engineering  
-- Especially interested in backend development  
+- Especially interested in backend development and cloud infrastructure 
 - Always learning, building, and improving  
 
 ---
