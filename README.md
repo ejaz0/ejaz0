@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Elvis
+# Hi, I’m Elvis
 
 I’m a passionate developer who thrives on building robust, scalable, and efficient backend systems. While I enjoy exploring different areas of development, I’m especially drawn to the backend side — designing APIs, working with databases, and optimizing server-side logic. I love learning new technologies and solving real-world problems through clean and maintainable code.
 
