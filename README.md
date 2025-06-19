@@ -4,6 +4,9 @@ I'm a backend-leaning developer from Sweden with a Bachelor's degree in Software
 
 While I'm still early in my career, I’ve spent a lot of time learning by doing , building projects, exploring different parts of the stack, and focusing especially on how things work behind the scenes. I enjoy working with APIs, databases, and backend logic, and I’m always looking to improve and pick up new tools.
 
+I am currently open to new job opportunities and collaborations in software development. If you’re hiring or have a relevant opportunity, feel free to contact me at: elvishasanajcollaboration@gmail.com
+
+
 ---
 
 ## Tech Stack
